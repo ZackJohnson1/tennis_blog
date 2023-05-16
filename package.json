@@ -1,0 +1,25 @@
+{
+  "name": "covert_web_dev",
+  "version": "1.0.0",
+  "description": "nliu style website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "web",
+    "dev",
+    "website",
+    "node",
+    "js",
+    "express",
+    "nodemon"
+  ],
+  "author": "Zachary J Johnson",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22"
+  }
+}
